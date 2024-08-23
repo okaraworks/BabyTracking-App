@@ -30,4 +30,4 @@ The app follows the MVVM (Model-View-ViewModel) architecture pattern, utilizing 
 To get started, clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/JobApplicationTracker.git
+git clone https://github.com/okaraworks/BabyTracking-App.git
